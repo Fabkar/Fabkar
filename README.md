@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="./image/Githubfab.gif">
+    <img src="./image/Githubfab01.gif">
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -12,7 +12,7 @@
 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ You can shoot me an email at fab_862@hotmail.com! I'll try to respond as soon as I can.\
 ⚡Love to Work as a full-stack web developer.\
-🔭Love Music:headphones: / Cooking and cars :racing_car:.\
+🔭Love Music:headphones: / Cooking :cook: and cars :racing_car:.\
 <br>
 <div style="display:flex; justify-content:space-around">
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
