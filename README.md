@@ -11,12 +11,14 @@
 👋 i'm someone who's passionate about technology, general design.\
 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ You can shoot me an email at fab_862@hotmail.com! I'll try to respond as soon as I can.\
-⚡Love to Work as a full-stack web developer.
-🔭Love Music:headphones: / Cooking and cars :racing_car:.
-
+⚡Love to Work as a full-stack web developer.\
+🔭Love Music:headphones: / Cooking and cars :racing_car:.\
+<br>
+<div style="display:flex; justify-content:space-around">
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+
+### 🛠 &nbsp;Tech Stack 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -27,7 +29,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+</div>
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
