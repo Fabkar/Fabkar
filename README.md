@@ -36,11 +36,14 @@
 
 <p align="center">
 <a href="https://github.com/Fabkar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fabkar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fabkar&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fabkar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
 </a>
-</p>
+<br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarias&hide=jupyter%20notebook&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devarias/)
+
+</br>
+</p>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
