@@ -44,12 +44,12 @@
 
 </br>
 </p>
-### 🤝🏻 &nbsp;Connect with Me
+ 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fabiancarmona/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="100px" height="100px"/></a>
-<a href="https://www.instagram.com/fabiancar08/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-233-896451.png" width="100px" height="100px"/></a>
-<a href="https://www.facebook.com/fabian.carmona1"><img src="https://img.icons8.com/ios/452/facebook-new.png" width="100px" height="100px"/></a>
-<a href="https://www.Behance.net/fabiancarmona"><img src="https://image.flaticon.com/icons/png/512/145/145799.png" width="100px" height="100px"/></a>
-<a href="https://twitter.com/fabkar08"><img src="https://e1.pngegg.com/pngimages/18/689/png-clipart-ios-7-icons-updated-twitter-twitter-icon-thumbnail.png" width="100px" height="100px"></a>
+<a href="https://www.linkedin.com/in/fabiancarmona/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50"/></a>
+<a href="https://www.instagram.com/fabiancar08/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-233-896451.png" width="50"/></a>
+<a href="https://www.facebook.com/fabian.carmona1"><img src="https://img.icons8.com/ios/452/facebook-new.png" width="50"/></a>
+<a href="https://www.Behance.net/fabiancarmona"><img src="https://image.flaticon.com/icons/png/512/145/145799.png" width="50"/></a>
+<a href="https://twitter.com/fabkar08"><img src="https://e1.pngegg.com/pngimages/18/689/png-clipart-ios-7-icons-updated-twitter-twitter-icon-thumbnail.png" width="50"></a>
 </p>
