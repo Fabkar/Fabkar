@@ -34,16 +34,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Fabkar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fabkar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
-</a>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devarias&hide=jupyter%20notebook&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devarias/)
-
+<div style="display:flex; justify-content:space-around">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fabkar&show_icons=true&theme=tokyonight" height="180px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabkar&theme=tokyonight&langs_count=8&layout=compact" height="180px">
+</div>
 </br>
-</p>
+
  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
